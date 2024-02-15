@@ -4,6 +4,10 @@ description = "Simple TGA image reader"
 authors = ["Speykious", "Tero Hänninen"]
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/Speykious/simple-tga-reader"
+license = "BSD-2-Clause"
+keywords = ["image", "decode", "graphics"]
+categories = ["multimedia::images", "encoding"]
 
 [dependencies]
 # None B)
