@@ -1,0 +1,9 @@
+[package]
+name = "simple-tga-reader"
+description = "Simple TGA image reader"
+authors = ["Speykious", "Tero Hänninen"]
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# None B)
